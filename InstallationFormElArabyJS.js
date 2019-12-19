@@ -1,4 +1,4 @@
-﻿/////////////////////////////Variables///////////////////////////////////// installation / / merna
+﻿/////////////////////////////Variables/////////////////////////////////////
 var MaintenanceFormId = "5b4526d8-dfad-41fa-a4f5-fd52337e65db";
 var ComplainFormId = "c44adeef-8c87-45a5-abec-3f094590012a";
 var InquiryFormId = "9d3ff23f-2296-4bab-be3b-14f15c86f620";
